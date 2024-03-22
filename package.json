@@ -1,0 +1,38 @@
+{
+  "name": "eanon",
+  "version": "1.8.1",
+  "description": "Idiomatic TS array, object utils, Option, Result monads",
+  "main": "commonjs/index.js",
+  "module": "es/index.js",
+  "typings": "commonjs/index.d.ts",
+  "files": [
+    "es",
+    "commonjs"
+  ],
+  "dependencies": {
+    "immupdate": "1.1.4"
+  },
+  "devDependencies": {
+    "typescript": "2.4.1",
+    "mocha": "3.0.2",
+    "expect": "1.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IrwinDenesik/eanon.git"
+  },
+  "author": "GwendolynJast",
+  "homepage": "https://github.com/IrwinDenesik/eanon.git",
+  "keywords": [
+    "typescript",
+    "praesentium",
+    "TS",
+    "std lib",
+    "provident",
+    "quo",
+    "monad",
+    "ab",
+    "maybe",
+    "result"
+  ]
+}
